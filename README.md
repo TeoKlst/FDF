@@ -1,6 +1,6 @@
 # FDF
 
-Fdf Project - 3D Wireframe Viewer
+Fdf Project - 3D Wireframes Viewer
 
 ![](images/Screenshot_42.png)
 
