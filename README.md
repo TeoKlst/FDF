@@ -1,6 +1,6 @@
 ---
 title: "Testing-Title"
-author: Test-Author
+author: Testing-Author
 manager: Test-Manager
 audience: Test-Audience
 ts.topic: Test-Topic
