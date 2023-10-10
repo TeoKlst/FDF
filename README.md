@@ -8,7 +8,6 @@ ts.service: Test-Service
 ts.localizationpriority: medium
 ts.collection: Tier1
 description: "Some Random Description"
-hideEdit: true
 ts.date: 09/26/2023
 ---
 
