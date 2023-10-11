@@ -13,7 +13,7 @@ ts.date: 09/26/2023
 
 # FDF
 
-Fdf Project - 3D Wireframes Viewer
+Fdf Project - 3D Wireframe Viewer
 
 ![](images/Screenshot_42.png)
 
